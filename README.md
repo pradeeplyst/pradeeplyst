@@ -21,7 +21,7 @@ I'm a passionate developer with experience in full-stack web development, open-s
 ---
 
 ### 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight](https://github.com/pradeeplyst))
 
 ---
 
